@@ -1,0 +1,42 @@
+body{
+  margin: 0;
+  background-color: #434242;
+}
+
+footer{
+  text-align: center;
+  color: #439A97;
+  margin-top: 70px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.container{
+  text-align: center;
+  margin-top: 7%;
+}
+
+.image1{
+  display:inline-block;
+}
+
+.image2{
+  display:inline-block;
+}
+
+h1{
+  font-family: 'Lobster', cursive;
+  font-size: 90px;
+  color: #439A97;
+  margin-bottom: 2%;
+}
+
+p{
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+  color: #439A97;
+}
+
+.dice{
+  width: 60%;
+  height: 60%;
+}
